@@ -1,5 +1,9 @@
 # Frontend for the newsletter subscription web app
 
+## Prerequisites
+
+Have node.js and yarn installed
+
 ## Directions to run
 
 ### `yarn install`
